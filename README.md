@@ -1,4 +1,10 @@
-# Adrian Cantrill’s AWS Certified Solutions Architect - Associate Notes (SAA-C03) — Victor Patru’s Notes
+# Adrian Cantrill's AWS Certified Solutions Architect - Associate Notes (SAA-C03) — Victor Patru's Notes
+
+## About This Repository
+
+Comprehensive, Q&A-formatted study notes for the **AWS Certified Solutions Architect - Associate (SAA-C03)** exam. **1,261+ Q&A cards** covering all major AWS services (EC2, S3, VPC, RDS, ECS, Route53, CloudFront, DynamoDB, etc.) plus foundational networking, containerization, and serverless architectures.
+
+---
 
 ### Tech Fundamentals
 
